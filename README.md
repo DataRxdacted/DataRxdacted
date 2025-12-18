@@ -1,7 +1,6 @@
-- DataRxdacted or Qxrv
-- Learning how to code
-- Python, more specifically pygame
-- Can reach me on Qxrv#0000 or datarxdacted@gmail.com
+- Qxrv
+- LuaU / Python
+- Can reach me on discord at Qxrv or datarxdacted@gmail.com
 
 <!---
 DataRxdacted/DataRxdacted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
